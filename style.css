@@ -1,0 +1,48 @@
+h2 {
+color: red;
+text-align: center;
+
+}
+
+.chapter {
+color: blue;
+}
+
+#begin {
+    color: orange;
+    font-weight: bold;
+}
+
+nav {
+    /* static, relative, absolute, fixed,  */
+    position: inherit;
+    right: 0px;
+    top: 50px;
+    /* bottom, top, left, right */
+}   
+
+#alice {
+    width: 300px;
+    height: 150px;
+    bottom: 30px;
+    right: 30px;
+    }
+
+    .box {
+        vertical-align: middle;
+        display: inline-block;
+        width: 300px;
+        height: 300px;
+        /* padding: 20px;
+        margin: 20px; */
+        background-color: green;
+    }
+
+    .red {
+        background-color: red;
+        width: 50vw;
+        height: 30vh;
+        font-size: 30px;
+    }
+
+    
